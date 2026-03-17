@@ -1,0 +1,16 @@
+- name: Home
+  href: README.md
+- name: Articles
+  href: articles/README.md
+- name: Models
+  href: models/README.md
+- name: Scenario Samples
+  href: scenario-samples/README.md
+- name: Site Templates
+  href: site-templates/README.md
+- name: Scripts
+  href: scripts/README.md
+- name: GitHub
+  href: https://github.com/pnp/syntex-samples
+- name: Contributing
+  href: contributing/
